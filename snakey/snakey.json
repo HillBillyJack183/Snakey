@@ -8,7 +8,7 @@
         }
     ],
       "background": {
-        "url": "https://raw.githubusercontent.com/HillBillyJack183/Snakey/main/bg.jpg",
+        "url": "https://raw.githubusercontent.com/HillBillyJack183/Snakey/main/snakey/bg.jpg",
         "alpha": 0.5,
         "color": "#081924"
     }
