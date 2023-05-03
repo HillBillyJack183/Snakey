@@ -1,1 +1,15 @@
-
+{
+    "name": "galaxy",
+    "description": "a galaxy based theme for vendetta",
+    "authors": [
+        {
+            "name": "HillBillyJack183#3269",
+            "id": "728095020393169016"
+        }
+    ],
+      "background": {
+        "url": "https://raw.githubusercontent.com/HillBillyJack183/vendetta-themes/main/galaxy/bg.png",
+        "alpha": 0.5,
+        "color": "#081924"
+    }
+}
